@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/lilla-hawaii-restaurang-och-pizzeria/static/css/main.cd59329a.css",
+    "main.js": "/lilla-hawaii-restaurang-och-pizzeria/static/js/main.eae401da.js",
+    "static/js/787.5f8b4b02.chunk.js": "/lilla-hawaii-restaurang-och-pizzeria/static/js/787.5f8b4b02.chunk.js",
+    "static/media/PTSansNarrow-Regular.ttf": "/lilla-hawaii-restaurang-och-pizzeria/static/media/PTSansNarrow-Regular.68e86cce5b8c98f6305b.ttf",
+    "static/media/ArchitectsDaughter-Regular.ttf": "/lilla-hawaii-restaurang-och-pizzeria/static/media/ArchitectsDaughter-Regular.97e4b635030c7d8a85d5.ttf",
+    "index.html": "/lilla-hawaii-restaurang-och-pizzeria/index.html",
+    "main.cd59329a.css.map": "/lilla-hawaii-restaurang-och-pizzeria/static/css/main.cd59329a.css.map",
+    "main.eae401da.js.map": "/lilla-hawaii-restaurang-och-pizzeria/static/js/main.eae401da.js.map",
+    "787.5f8b4b02.chunk.js.map": "/lilla-hawaii-restaurang-och-pizzeria/static/js/787.5f8b4b02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd59329a.css",
+    "static/js/main.eae401da.js"
+  ]
+}

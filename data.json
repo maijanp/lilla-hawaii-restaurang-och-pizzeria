@@ -1,0 +1,322 @@
+{
+    "class1": [
+        {
+            "name": "Paesana",
+            "description": "Bacon, lök"
+        },
+        {
+            "name": "Caciatora",
+            "description": "Salami"
+        },
+        {
+            "name": "Vesuvio",
+            "description": "Skinka"
+        },
+        {
+            "name": "Hawaii",
+            "description": "Skinka, ananas"
+        },
+        {
+            "name": "Capricciosa",
+            "description": "Skinka, Champ"
+        },
+        {
+            "name": "Sole Mio",
+            "description": "Skinka, Lök"
+        },
+        {
+            "name": "Pescatore",
+            "description": "Tonfisk"
+        },
+        {
+            "name": "Al Tono",
+            "description": "Tonfisk, Lök"
+        },
+        {
+            "name": "Margarita",
+            "description": "Tomatsås, Ost"
+        },
+        {
+            "name": "Funghi",
+            "description": "Champinjon"
+        },
+        {
+            "name": "Vegetariana",
+            "description": "Champ, Lök, Paprika"
+        },
+        {
+            "name": "Vegetale",
+            "description": "Champ, Paprika, Oliver, Kronärtskocka"
+        },
+        {
+            "name": "Cipolla",
+            "description": "Lök, Oliver"
+        },
+        {
+            "name": "Peperone",
+            "description": "Paprika, Oliver"
+        }
+    ],
+    "class2": [
+        {
+            "name": "Calzone",
+            "description": "(Inbakad) Skinka"
+        },
+        {
+            "name": "Jubileum",
+            "description": "(Inbakad) Tonfisk, Lök"
+        },
+        {
+            "name": "Bolognese",
+            "description": "Köttfärssås"
+        },
+        {
+            "name": "La Mafia",
+            "description": "Bacon, Lök, Paprika"
+        },
+        {
+            "name": "Rimini",
+            "description": "Bacon, Lök, Ägg"
+        },
+        {
+            "name": "Farros",
+            "description": "Köttfärssås, Paprika, Champ"
+        },
+        {
+            "name": "Mare",
+            "description": "Räkor, Crabfish"
+        },
+        {
+            "name": "Frutti Di Mare",
+            "description": "Räkor, Crabfish, Musslor"
+        },
+        {
+            "name": "Romana",
+            "description": "Räkor, Crabfish, Tonfisk"
+        },
+        {
+            "name": "Quattro Pesci",
+            "description": "Räkor, Crabfish, Musslor, Tonfisk"
+        },
+        {
+            "name": "Tropicana",
+            "description": "Skinka, Ananas, Banan, Curry"
+        },
+        {
+            "name": "Marinara",
+            "description": "Räkor, Musslor"
+        },
+        {
+            "name": "Napolitana",
+            "description": "Sardeller, Oliver, Kapris"
+        },
+        {
+            "name": "Bella",
+            "description": "Skinka, Bacon, Lök"
+        },
+        {
+            "name": "Primavera",
+            "description": "Skinka, Champ, Paprika, Kapris"
+        },
+        {
+            "name": "Fiorentina",
+            "description": "Skinka, Champ, Räkor"
+        },
+        {
+            "name": "Quattro Stagioni",
+            "description": "Skinka, Champ, Räkor, Musslor"
+        },
+        {
+            "name": "Polo",
+            "description": "Skinka, Crabfish"
+        },
+        {
+            "name": "A La Borgen",
+            "description": "Skinka, Räkor"
+        },
+        {
+            "name": "Venezia",
+            "description": "Skinka, Tonfisk"
+        }
+    ],
+    "class3": [
+        {
+            "name": "Siciliana",
+            "description": "Sardeller, Kapri, Vitlök, Oliver"
+        },
+        {
+            "name": "Ciao Ciao",
+            "description": "Oxfilé, Bearnaise, Champ, Lök"
+        },
+        {
+            "name": "Arena Special",
+            "description": "Oxfilé, Bearnaise, Färska tomater"
+        },
+        {
+            "name": "Amore",
+            "description": "Oxfilé, Bearnaise, Vitlök, Sparris"
+        },
+        {
+            "name": "Torros",
+            "description": "Oxfilé, Bearnaise, Ägg"
+        },
+        {
+            "name": "Gorgonzola",
+            "description": "Oxfilé, Gorgonzola, Champ"
+        },
+        {
+            "name": "Maffioso",
+            "description": "Oxfilé, Vitlök, Färska tomater"
+        },
+        {
+            "name": "Husets Special",
+            "description": "Vitlök, Currymarinerad fläskfilé, Paprika, Lök"
+        },
+        {
+            "name": "Mexicana",
+            "description": "(Stark) Köttfärssås, Lök, Champ, Tabasco"
+        },
+        {
+            "name": "Kebabpizza",
+            "description": "Kebabkött (nöt), Sallad, Tomat, Lök, Feferoni, Kebabsås"
+        },
+        {
+            "name": "Sverige Special",
+            "description": "Kekbabkött (nöt), Skinka, Kebabsås"
+        },
+        {
+            "name": "Gyrospizza",
+            "description": "Gyroskött (fläsk), Sallad, Tomat, Lök, Feferoni, Kebabsås"
+        },
+        {
+            "name": "Amadeus",
+            "description": "(Halvinbakad) Gyroskött (fläsk), Lök, Champ"
+        }
+    ],
+    "class4": [
+        {
+            "name": "Calzone Special",
+            "description": "Skinka, Räkor, Champ"
+        },
+        {
+            "name": "Portofin",
+            "description": "Räkor"
+        },
+        {
+            "name": "Con Carne",
+            "description": "Köttfärs, Lök, Vitlök"
+        },
+        {
+            "name": "Bambino",
+            "description": "Köttfärs, Ananas"
+        },
+        {
+            "name": "Karlskrona Special",
+            "description": "Kebabkött (nöt), Champ, Kebabsås"
+        },
+        {
+            "name": "Grekisk Pizza",
+            "description": "Kebabkött (nöt), Sallad, Fetaost, Oliver, Tzatziki, Feferoni"
+        },
+        {
+            "name": "Rogers Pizza",
+            "description": "Skinka, Köttfärssås, Champ, Lök, Ägg"
+        },
+        {
+            "name": "Dennis Pizza",
+            "description": "Oxfilé, Bacon, Färska tomater, Vitlök"
+        },
+        {
+            "name": "Parma",
+            "description": "Mozarella, Champ, Parmaskinka, Parmesanost"
+        },
+        {
+            "name": "Santana",
+            "description": "Mozarella, ParmaSkinka, Soltorkade tomater, Oliver"
+        },
+        {
+            "name": "Alabana",
+            "description": "Kryddstark korv, Mozarella, Färska tomater, Paprika, Fetaost"
+        },
+        {
+            "name": "Hasslö Special",
+            "description": "Mozarella, Blåmusslor, Jumboräkor, Kräftstjärtar, Färsk vitlök"
+        },
+        {
+            "name": "Roma",
+            "description": "Mozarella, Vitlöks- och currymarinerad kycklingfilé, Paprika, Champ"
+        }
+    ],
+    "salads": [
+        {
+            "name": "Kycklingsallad"
+        },
+        {
+            "name": "Räksallad"
+        },
+        {
+            "name": "Grekisk Sallad"
+        },
+        {
+            "name": "Tonfisksallad"
+        },
+        {
+            "name": "Kebabsallad"
+        },
+        {
+            "name": "Gyrossallad"
+        }
+    ],
+    "meatDishes": [
+        {
+            "name": "Kebab i Bröd",
+            "price": "105kr"
+        },
+        {
+            "name": "Kebabrulle",
+            "price": "105kr"
+        },
+        {
+            "name": "Kebabtallrik",
+            "price": "115kr"
+        },
+        {
+            "name": "Grekisk Kebabtallrik",
+            "price": "115kr"
+        },
+        {
+            "name": "Kebabtallrik Special",
+            "price": "120kr"
+        },
+        {
+            "name": "Kebablåda (3-4 personer)",
+            "price": "200kr"
+        },
+        {
+            "name": "Gyros i bröd",
+            "price": "105kr"
+        },
+        {
+            "name": "Gyrosrulle",
+            "price": "105kr"
+        },
+        {
+            "name": "Gyrostallrik",
+            "price": "115kr"
+        },
+        {
+            "name": "Gyroslåda (3-4 personer)",
+            "price": "200kr"
+        }
+    ],
+    "burgers": [
+        {
+            "name": "90g Hamburgertallrik",
+            "price": "115kr"
+        },
+        {
+            "name": "150g Hamburgertallrik",
+            "price": "125kr"
+        }
+    ]
+}
