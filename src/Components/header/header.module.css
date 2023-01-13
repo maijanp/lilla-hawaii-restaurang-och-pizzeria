@@ -1,0 +1,42 @@
+.imgContainer{
+    width: 80%;
+}
+
+.imgContainer img{
+    width: 100%;
+}
+
+header{
+height: 30%;
+justify-content: space-between;
+margin-top: 1rem;
+align-items: center;
+text-align: center;
+margin-bottom: 2rem;
+}
+
+header h1{
+font-family: sketchnote-square,sans-serif;
+font-weight: 400;
+font-style: normal;
+}
+
+header h2{
+    margin-top: 0;
+    font-family: "PT Sans Narrow Regular";
+    font-weight: bold;
+    color: var(--orange)
+}
+
+@media only screen and (min-width: 768px) {
+.imgContainer{
+    width: 40%;
+  }
+  header h1{
+   font-size: 3.5rem;
+    }
+
+    header h2{
+        font-size: 2.5rem;
+    }
+}

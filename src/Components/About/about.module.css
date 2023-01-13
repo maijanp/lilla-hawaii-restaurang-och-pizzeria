@@ -1,0 +1,19 @@
+.container{
+    margin-bottom: 2rem
+}
+
+.textWrapper{
+    text-align: center;
+    margin: auto;
+    padding:0 2rem 2rem 2rem ;
+}
+
+@media only screen and (min-width: 768px) {
+    .textWrapper{
+        width: 70%;
+    }
+
+    .textWrapper p{
+        font-size: x-large;
+    }
+}

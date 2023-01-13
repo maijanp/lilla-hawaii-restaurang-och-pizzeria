@@ -1,0 +1,63 @@
+nav {
+  font-size: large;
+  text-align: center;
+  padding: 1rem;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  justify-content: center;
+  display: flex;
+  background-color: white;
+  flex-direction: row;
+  z-index: 100;
+}
+
+.navItem {
+  margin-right: 1rem;
+  margin-left: 1rem;
+  justify-content: space-around;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  width: 20%;
+  text-align: center;
+}
+
+.navItem a {
+  text-decoration: none;
+}
+
+#icon1,
+#icon2,
+#icon3,
+#icon4,
+#icon5 {
+  margin: auto;
+  background-repeat: round;
+  width: 40px;
+  height: 40px;
+  display: block;
+}
+
+#icon1 {
+  background-image: url("/public/images/pizza.png");
+}
+
+#icon2 {
+  background-image: url("/public/images/salad.png");
+}
+
+#icon3 {
+  background-image: url("/public/images/kebab.png");
+}
+
+#icon4 {
+  background-image: url("/public/images/burger.png");
+}
+
+@media only screen and (min-width: 992px) {
+  nav {
+    display: none;
+  }
+}
